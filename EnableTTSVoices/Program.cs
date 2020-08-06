@@ -18,11 +18,11 @@ namespace EnableTTSVoices
             Console.WriteLine("=========   EnableTTSVoices   ==============================================================================");
             Console.WriteLine("============================================================================================================");
             Console.WriteLine();
-            Console.WriteLine("This application will copy registry keys that exist for Microsoft Speech OneCore Voices across to regular Speech Voices to enable use in System.Speech applications (ie. vatSys).");
-            Console.WriteLine("This method is documented here: https://www.ghacks.net/2018/08/11/unlock-all-windows-10-tts-voices-system-wide-to-get-more-of-them/");
+            Console.WriteLine("This application will copy registry keys to enable more TTS voices in vatSys.");
             Console.WriteLine();
 
-            Console.WriteLine("Open Speech Settings to install additional voices? (y/n):");
+            Console.WriteLine("Additional Microsoft TTS voices can be installed through Windows Speech Settings before this App enables their use.");
+            Console.WriteLine("Open Speech Settings now to install additional voices? (y/n):");
             string reply = Console.ReadLine();
             if (reply == "y" || reply == "yes" || reply == "open" || reply == "1")
             {
