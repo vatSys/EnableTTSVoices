@@ -1,0 +1,7 @@
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\bin\Release\EnableTTSVoices.exe.config
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\bin\Release\EnableTTSVoices.exe
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\bin\Release\EnableTTSVoices.pdb
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\obj\Release\EnableTTSVoices.csprojAssemblyReference.cache
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\obj\Release\EnableTTSVoices.csproj.CoreCompileInputs.cache
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\obj\Release\EnableTTSVoices.exe
+C:\Users\jakes\source\repos\EnableTTSVoices\EnableTTSVoices\obj\Release\EnableTTSVoices.pdb
